@@ -1,6 +1,6 @@
 <?php
 
-namespace Uzzaircode\StarRatingUI;
+namespace UzzairWebStudio\StarRatingUI;
 
 use Illuminate\Support\ServiceProvider;
 
